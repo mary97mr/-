@@ -12,6 +12,8 @@ class ProjectDetailsModal extends Component {
       var title = this.props.data.title;
       var description = this.props.data.description;
       var url = this.props.data.url;
+      var youtubeVideo = this.props.data.youtubeVideo;
+      var herokuUrl = this.props.data.herokuUrl;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -88,6 +90,33 @@ class ProjectDetailsModal extends Component {
                 >
                   <i
                     className="fas fa-external-link-alt"
+                    style={{ marginLeft: "10px" }}
+                  ></i>
+                </a>
+              ) : null}
+              {youtubeVideo ? (
+                <a
+                  href={youtubeVideo}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                  <i
+                    className="fab fa-youtube"
+                    style={{ marginLeft: "10px" }}
+                  ></i>
+                </a>
+              ) : null}
+
+              {herokuUrl ? (
+                <a
+                href={herokuUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="link-href"
+                >
+                  <i
+                    className="fas fa-laptop"
                     style={{ marginLeft: "10px" }}
                   ></i>
                 </a>

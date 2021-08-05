@@ -1,52 +1,41 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Mari Mendieta. I've studied a Higher Level Training Cycle on Building to become a Draughtsperson. As I didn't find a job in my city I decided to recyle myself and started studying self-taught in web delevolpment. And I'm currently working with full-stack MERN frameworks like MongoDB, Express, React, NodeJS. I would like to continue raising the level of the knowledge that I already know and also learn new frameworks. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
         "skills": "Skills",
-        "experience": "Experience"
+        "experience": "knowledge"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Twitter Clone",
+        "startDate": "2021",
+        "description": "This is a simple application created using Nodejs, express and mongoDB as server, with basic design and functionality of the official Twitter app. The main features are: create account, tweet, retweet, likes, reply tweet , followers and a seeker of users. ",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/twitter-clone/p1.png",
+          "images/portfolio/twitter-clone/p2.png"
         ],
-        "url": "",
+        "url": "https://github.com/mary97mr/twitter-clone",
+        "herokuUrl": "https://twitter-mary97mr.herokuapp.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-express-original",
+            "name": "Express"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,63 +44,159 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "YelpCamp",
+        "startDate": "2020",
+        "description": "This is full stack application built for my Web Developer Bootcamp course. Built with Nodejs, express, mongoDB, Bootstrap 4 for styling and using restful routes. The main features are searcher to find a post, create your account, create your own post, like/unlike post, add review and rate post, comment post, follow other people and receive notifications of their post, forgot password implementation.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/yelpcamp/p1.png",
+          "images/portfolio/yelpcamp/p2.png",
+          "images/portfolio/yelpcamp/p3.png",
+          "images/portfolio/yelpcamp/p4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/mary97mr/yelp-camp",
+        "youtubeVideo": "https://www.youtube.com/embed/a649jKlby2s",
+        "herokuUrl": "https://yelp-camp-mary97mr.herokuapp.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-express-original",
+            "name": "Express"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Politécnico High School",
+        "title": "Higher Level Training Cycle on Building",
+        "years": "09.2016 - 03.2018",
+        "location": "Vigo, Spain",
+        "icon": "fas fa-graduation-cap experience-icon",
         "mainTech": [
-          "Angular 8/9/10"
+          "Autocad"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Technical Drawing",
+          "Revit",
+          "Sketchup",
+          "Cerma",
+          "Arquimedes",
+          "CypeCad",
+          "Photoshot",
+          "Project Management"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "MYGG Architecture ",
+        "title": "Internship",
+        "years": "09.2018 - 12.2018",
+        "location": "Milan, Italy",
+        "icon": "fas fa-pencil-ruler experience-icon",
         "mainTech": [
-          "Angular 7/8"
+          "Sketchup"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+          "Autocad",
+          "Drawing",
+          "Photoshop",
+          "Revit"
+        ]
+      },
+      {
+        "company": "Buildings Saramagal S.L.",
+        "title": "Drafting Technician",
+        "years": "01.2019 - 08.2019",
+        "location": "Vigo, Spain",
+        "icon": "fas fa-laptop experience-icon",
+        "mainTech": [
+          "Arquimedes"
+        ],
+        "technologies": [
+          "Calculate budgets of proyects",
+          "Autocad",
+          "Sketchup"
+        ]
+      },
+      {
+        "company": "Web developer Bootcamp Course 2018 (online)",
+        "title": "Full Stack developer",
+        "years": "07.2020 - 10.2020",
+        "location": "Vigo, Spain",
+        "icon": "fas fa-laptop-code experience-icon",
+        "mainTech": [
+          "Fullstack"
+        ],
+        "technologies": [
+          "EJS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Html5",
+          "CSS3",
+          "Bootstrap 3",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "REST API"
+        ]
+      },
+      {
+        "company": "Web developer Bootcamp Course 2021 (online)",
+        "title": "Full Stack developer",
+        "years": "11.2020 - 01.2021",
+        "location": "Vigo, Spain",
+        "icon": "fas fas fa-laptop-code experience-icon",
+        "mainTech": [
+          "Fullstack"
+        ],
+        "technologies": [
+          "EJS",
+          "JavaScript",
+          "Html5",
+          "CSS3",
+          "Bootstrap 4",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "REST API",
+          "AJAX"
+        ]
+      },
+      {
+        "company": "The Advanced Web developer Bootcamp 2018 (online)",
+        "title": "Full Stack MERN developer",
+        "years": "02.2021 - 05.2021",
+        "location": "Vigo, Spain",
+        "icon": "fas fa-laptop-code experience-icon",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "EJS",
+          "OOP JavaScript",
+          "Html5",
+          "Advanced CSS3",
+          "ES2015",
+          "ES2016",
+          "ES2017",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "React",
+          "Redux"
         ]
       }
     ]
