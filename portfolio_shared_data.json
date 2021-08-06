@@ -1,0 +1,93 @@
+{
+    "basic_info": {
+      "name": "Mari Mendieta",
+      "titles": [ "Front-end Developer", "Back-end Developer", "MERN Stack"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/mary97mr",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/marymendirojas/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/marymendirojas",
+          "class": "fab fa-twitter"
+        }
+      ],
+      "image": "myProfile.svg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain colored",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original colored",
+          "level": "40"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original colored",
+          "level": "40"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain colored",
+          "level": "60"
+        },
+        {
+          "name": "Npm",
+          "class": "devicon-npm-original-wordmark colored",
+          "level": "60"
+        },
+        {
+          "name": "ExpressJS",
+          "class": "devicon-express-original",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "GIT",
+          "class": "devicon-git-plain colored",
+          "level": "65"
+        },
+        {
+          "name": "Visual Studio",
+          "class": "devicon-visualstudio-plain",
+          "level": "65"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain colored",
+          "level": "65"
+        }
+      ]
+    }
+  }

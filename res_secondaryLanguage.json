@@ -1,0 +1,203 @@
+{
+    "basic_info": {
+      "description_header": "Hola",
+      "description": "👋 Me llamo Mari Mendieta. Estudié una Formación Profesional de Proyectos de Edificación. Estuve trabajando en Vigo para el cálculo de presupuestos unos meses.Como no encontré trabajo en mi ciudad de lo que me gustaría, decidí reciclarme y estudiar de forma autodidacta en desarrollo web. Ahora estoy trabajando con frameworks MERN como MongoDB, ExpressJS, React, NodeJs. Me gustaría seguir avanzando en los conocimientos que ya conozco y también aprender nuevos frameworks.",
+      "section_name": {
+        "about": "Acerca de mi",
+        "projects": "Proyectos",
+        "skills": "Habilidades",
+        "experience": "Conocimientos"
+      }
+    },
+    "projects":[
+      {
+        "title": "Twitter Clone",
+        "startDate": "2021",
+        "description": "Este es una aplicación básica creada usando  Nodejs, express y mongoDB como servidor, con diseño básico y  funcionalidades de la aplicación ofical de twitter.Las principales características son: crear cuenta, twittear, retweetear, responder tweets, likes, seguidores/seguidos y un buscador de usuarios.",
+        "images": [
+          "images/portfolio/twitter-clone/p1.png",
+          "images/portfolio/twitter-clone/p2.png"
+        ],
+        "url": "https://github.com/mary97mr/twitter-clone",
+        "herokuUrl": "https://twitter-mary97mr.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "YelpCamp",
+        "startDate": "2020",
+        "description": "Este es una aplicación full stack creada para mi curso de Web Developer Bootcamp. Creada con Nodejs, express, mongoDB, Bootstrap 4 para diseño y con restful routes. Las principales características son: un buscador de publicaciones, crear cuenta, crear una publicación, like/unlike, añadir reseña y calificar publicación, añadir comentarios, seguir a personas y recibir notificaciones, también cuenta con la implementación de olvidar contraseña.",
+        "images": [
+          "images/portfolio/yelpcamp/p1.png",
+          "images/portfolio/yelpcamp/p2.png",
+          "images/portfolio/yelpcamp/p3.png",
+          "images/portfolio/yelpcamp/p4.png"
+        ],
+        "url": "https://github.com/mary97mr/yelp-camp",
+        "youtubeVideo": "https://www.youtube.com/embed/a649jKlby2s",
+        "herokuUrl": "https://yelp-camp-mary97mr.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "IES Politécnico de Vigo",
+        "title": "Técnico Superior en Proyectos de Edificación",
+        "years": "09.2016 - 03.2018",
+        "location": "Vigo, España",
+        "icon": "fas fa-graduation-cap experience-icon",
+        "mainTech": [
+          "Autocad"
+        ],
+        "technologies": [
+          "Dibujo Técnico",
+          "Revit",
+          "Sketchup",
+          "Cerma",
+          "Arquimedes",
+          "CypeCad",
+          "Photoshot",
+          "Planificación de Proyectos"
+        ]
+      },
+      {
+        "company": "MYGG Architecture ",
+        "title": "Prácticas",
+        "years": "09.2018 - 12.2018",
+        "location": "Milan, Italia",
+        "icon": "fas fa-pencil-ruler experience-icon",
+        "mainTech": [
+          "Sketchup"
+        ],
+        "technologies": [
+          "Autocad",
+          "Drawing",
+          "Photoshop",
+          "Revit"
+        ]
+      },
+      {
+        "company": "Construcciones Saramagal S.L.",
+        "title": "Técnico Delineante",
+        "years": "01.2019 - 08.2019",
+        "location": "Vigo, España",
+        "icon": "fas fa-laptop experience-icon",
+        "mainTech": [
+          "Arquimedes"
+        ],
+        "technologies": [
+          "Calcular presupuestos de proyectos",
+          "Autocad",
+          "Sketchup"
+        ]
+      },
+      {
+        "company": "Web developer Bootcamp Course 2018 (online)",
+        "title": "Full Stack developer",
+        "years": "07.2020 - 10.2020",
+        "location": "Vigo, España",
+        "icon": "fas fa-laptop-code experience-icon",
+        "mainTech": [
+          "Fullstack"
+        ],
+        "technologies": [
+          "EJS",
+          "JavaScript",
+          "Html5",
+          "CSS3",
+          "Bootstrap 3",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "REST API"
+        ]
+      },
+      {
+        "company": "Web developer Bootcamp Course 2021 (online)",
+        "title": "Full Stack developer",
+        "years": "11.2020 - 01.2021",
+        "location": "Vigo, España",
+        "icon": "fas fas fa-laptop-code experience-icon",
+        "mainTech": [
+          "Fullstack"
+        ],
+        "technologies": [
+          "EJS",
+          "JavaScript",
+          "Html5",
+          "CSS3",
+          "Bootstrap 4",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "REST API",
+          "AJAX"
+        ]
+      },
+      {
+        "company": "The Advanced Web developer Bootcamp 2018 (online)",
+        "title": "Full Stack MERN developer",
+        "years": "02.2021 - 05.2021",
+        "location": "Vigo, España",
+        "icon": "fas fa-laptop-code experience-icon",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "EJS",
+          "OOP JavaScript",
+          "Html5",
+          "Advanced CSS3",
+          "ES2015",
+          "ES2016",
+          "ES2017",
+          "NodeJS",
+          "ExpressJS",
+          "MongoDB",
+          "React",
+          "Redux"
+        ]
+      }
+    ]
+  }
