@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Mari Mendieta. I've studied a Higher Level Training Cycle on Building to become a Draughtsperson. As I didn't find a job in my city I decided to recyle myself and started studying self-taught in web delevolpment. And I'm currently working with full-stack MERN frameworks like MongoDB, Express, React, NodeJS. I would like to continue raising the level of the knowledge that I already know and also learn new frameworks. ",
+      "description": "👋 I'm Mari Mendieta. I've studied a Higher Level Training Cycle on Building to become a Draughtsperson. As I didn't find a job in my city I decided to recycle myself and started studying self-taught in web development. And I'm currently working with the full-stack MERN frameworks: MongoDB, Express, React and NodeJS. I would like to continue growing as a software developer and learn new technologies and improve the ones that I already know.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -23,7 +23,7 @@
         "technologies": [
           {
             "class": "devicon-nodejs-plain",
-            "name": "Node"
+            "name": "NodeJS"
           },
           {
             "class": "devicon-express-original",
@@ -46,7 +46,7 @@
       {
         "title": "YelpCamp",
         "startDate": "2020",
-        "description": "This is full stack application built for my Web Developer Bootcamp course. Built with Nodejs, express, mongoDB, Bootstrap 4 for styling and using restful routes. The main features are searcher to find a post, create your account, create your own post, like/unlike post, add review and rate post, comment post, follow other people and receive notifications of their post, forgot password implementation.",
+        "description": "This is a full stack application built for my Web Developer Bootcamp course. Built with Nodejs, express, mongoDB, Bootstrap 4 for styling and using restful routes. The main features are searcher to find a post, create your account, create your own post, like/unlike post, add review and rate post, comment post, follow other people and receive notifications of their post, forgot password implementation.",
         "images": [
           "images/portfolio/yelpcamp/p1.png",
           "images/portfolio/yelpcamp/p2.png",
@@ -59,7 +59,7 @@
         "technologies": [
           {
             "class": "devicon-nodejs-plain",
-            "name": "Node"
+            "name": "NodeJS"
           },
           {
             "class": "devicon-express-original",
@@ -91,7 +91,7 @@
           "Autocad"
         ],
         "technologies": [
-          "Technical Drawing",
+          "Drawing",
           "Revit",
           "Sketchup",
           "Cerma",
@@ -103,10 +103,10 @@
       },
       {
         "company": "MYGG Architecture ",
-        "title": "Internship",
+        "title": "Internship as Drafting Technician",
         "years": "09.2018 - 12.2018",
         "location": "Milan, Italy",
-        "icon": "fas fa-pencil-ruler experience-icon",
+        "icon": "fas fa-briefcase experience-icon",
         "mainTech": [
           "Sketchup"
         ],
@@ -122,22 +122,38 @@
         "title": "Drafting Technician",
         "years": "01.2019 - 08.2019",
         "location": "Vigo, Spain",
-        "icon": "fas fa-laptop experience-icon",
+        "icon": "fas fa-briefcase experience-icon",
         "mainTech": [
           "Arquimedes"
         ],
         "technologies": [
-          "Calculate budgets of proyects",
+          "Budget calculation",
           "Autocad",
           "Sketchup"
         ]
       },
       {
-        "company": "Web developer Bootcamp Course 2018 (online)",
-        "title": "Full Stack developer",
+        "company": "PracticePython.org",
+        "title": "Training in Python",
+        "years": "05.2020 - 06.2020",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "VS Code",
+          "Linux",
+          "Git"
+        ]
+      },
+      {
+        "company": "Web developer Bootcamp Course 2018",
+        "title": "Training in Full-stack Development",
         "years": "07.2020 - 10.2020",
-        "location": "Vigo, Spain",
-        "icon": "fas fa-laptop-code experience-icon",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
         "mainTech": [
           "Fullstack"
         ],
@@ -150,15 +166,18 @@
           "NodeJS",
           "ExpressJS",
           "MongoDB",
-          "REST API"
+          "REST API",
+          "VS Code",
+          "Linux",
+          "Git"
         ]
       },
       {
-        "company": "Web developer Bootcamp Course 2021 (online)",
-        "title": "Full Stack developer",
+        "company": "Web developer Bootcamp Course 2021",
+        "title": "Training in Full-stack Development",
         "years": "11.2020 - 01.2021",
-        "location": "Vigo, Spain",
-        "icon": "fas fas fa-laptop-code experience-icon",
+        "location": "Online",
+        "icon": "fas fas fa-graduation-cap experience-icon",
         "mainTech": [
           "Fullstack"
         ],
@@ -172,15 +191,18 @@
           "ExpressJS",
           "MongoDB",
           "REST API",
-          "AJAX"
+          "AJAX",
+          "VS Code",
+          "Linux",
+          "Git"
         ]
       },
       {
-        "company": "The Advanced Web developer Bootcamp 2018 (online)",
-        "title": "Full Stack MERN developer",
+        "company": "The Advanced Web developer Bootcamp 2018",
+        "title": "Training in Full-stack Development (MERN)",
         "years": "02.2021 - 05.2021",
-        "location": "Vigo, Spain",
-        "icon": "fas fa-laptop-code experience-icon",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
         "mainTech": [
           "React"
         ],
@@ -196,7 +218,10 @@
           "ExpressJS",
           "MongoDB",
           "React",
-          "Redux"
+          "Redux",
+          "VS Code",
+          "Linux",
+          "Git"
         ]
       }
     ]

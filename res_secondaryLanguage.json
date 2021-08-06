@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hola",
-      "description": "👋 Me llamo Mari Mendieta. Estudié una Formación Profesional de Proyectos de Edificación. Estuve trabajando en Vigo para el cálculo de presupuestos unos meses.Como no encontré trabajo en mi ciudad de lo que me gustaría, decidí reciclarme y estudiar de forma autodidacta en desarrollo web. Ahora estoy trabajando con frameworks MERN como MongoDB, ExpressJS, React, NodeJs. Me gustaría seguir avanzando en los conocimientos que ya conozco y también aprender nuevos frameworks.",
+      "description": "👋 Soy Mari Mendieta. Estudié una Formación Profesional de Proyectos de Edificación. Estuve trabajando en Vigo en cálculo de presupuestos durante unos meses. Como no encontré trabajo en mi ciudad de lo que quería, decidí reciclarme y formarme de manera autodidacta en desarrollo web. Ahora estoy trabajando con frameworks de la pila MERN: MongoDB, ExpressJS, React y NodeJs. Me gustaría seguir creciendo como desarrolladora de software, aprender nuevas tecnologías y mejorar en las que ya conozco.",
       "section_name": {
         "about": "Acerca de mi",
         "projects": "Proyectos",
@@ -13,7 +13,7 @@
       {
         "title": "Twitter Clone",
         "startDate": "2021",
-        "description": "Este es una aplicación básica creada usando  Nodejs, express y mongoDB como servidor, con diseño básico y  funcionalidades de la aplicación ofical de twitter.Las principales características son: crear cuenta, twittear, retweetear, responder tweets, likes, seguidores/seguidos y un buscador de usuarios.",
+        "description": "Esta es una aplicación básica creada usando  Nodejs, Express y MongoDB como servidor, con diseño básico y funcionalidades de la aplicación ofical de Twitter. Las principales características son: crear cuenta, twittear, retweetear, responder tweets, likes, seguidores/seguidos y un buscador de usuarios.",
         "images": [
           "images/portfolio/twitter-clone/p1.png",
           "images/portfolio/twitter-clone/p2.png"
@@ -23,7 +23,7 @@
         "technologies": [
           {
             "class": "devicon-nodejs-plain",
-            "name": "Node"
+            "name": "NodeJS"
           },
           {
             "class": "devicon-express-original",
@@ -46,7 +46,7 @@
       {
         "title": "YelpCamp",
         "startDate": "2020",
-        "description": "Este es una aplicación full stack creada para mi curso de Web Developer Bootcamp. Creada con Nodejs, express, mongoDB, Bootstrap 4 para diseño y con restful routes. Las principales características son: un buscador de publicaciones, crear cuenta, crear una publicación, like/unlike, añadir reseña y calificar publicación, añadir comentarios, seguir a personas y recibir notificaciones, también cuenta con la implementación de olvidar contraseña.",
+        "description": "Esta es una aplicación full-stack creada para mi curso de Web Developer Bootcamp con Nodejs, Express, MongoDB, Bootstrap 4 para diseño y con restful routes. Las principales características son: un buscador de publicaciones, crear cuenta, crear una publicación, like/unlike, añadir reseña y calificar publicación, añadir comentarios, seguir a personas y recibir notificaciones. También permite recuperar una contraseña olvidada.",
         "images": [
           "images/portfolio/yelpcamp/p1.png",
           "images/portfolio/yelpcamp/p2.png",
@@ -59,7 +59,7 @@
         "technologies": [
           {
             "class": "devicon-nodejs-plain",
-            "name": "Node"
+            "name": "NodeJS"
           },
           {
             "class": "devicon-express-original",
@@ -91,28 +91,28 @@
           "Autocad"
         ],
         "technologies": [
-          "Dibujo Técnico",
+          "Dibujo",
           "Revit",
           "Sketchup",
           "Cerma",
           "Arquimedes",
           "CypeCad",
-          "Photoshot",
+          "Photoshop",
           "Planificación de Proyectos"
         ]
       },
       {
-        "company": "MYGG Architecture ",
-        "title": "Prácticas",
+        "company": "MYGG Architecture",
+        "title": "Prácticas como Técnico Delineante",
         "years": "09.2018 - 12.2018",
         "location": "Milan, Italia",
-        "icon": "fas fa-pencil-ruler experience-icon",
+        "icon": "fas fa-briefcase experience-icon",
         "mainTech": [
           "Sketchup"
         ],
         "technologies": [
           "Autocad",
-          "Drawing",
+          "Dibujo",
           "Photoshop",
           "Revit"
         ]
@@ -122,22 +122,38 @@
         "title": "Técnico Delineante",
         "years": "01.2019 - 08.2019",
         "location": "Vigo, España",
-        "icon": "fas fa-laptop experience-icon",
+        "icon": "fas fa-briefcase experience-icon",
         "mainTech": [
           "Arquimedes"
         ],
         "technologies": [
-          "Calcular presupuestos de proyectos",
+          "Cálculo de presupuestos",
           "Autocad",
           "Sketchup"
         ]
       },
       {
-        "company": "Web developer Bootcamp Course 2018 (online)",
-        "title": "Full Stack developer",
+        "company": "PracticePython.org",
+        "title": "Formación en Python",
+        "years": "05.2020 - 06.2020",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "VS Code",
+          "Linux",
+          "Git"
+        ]
+      },
+      {
+        "company": "Web developer Bootcamp Course 2018",
+        "title": "Formación en Desarrollo Full-stack",
         "years": "07.2020 - 10.2020",
-        "location": "Vigo, España",
-        "icon": "fas fa-laptop-code experience-icon",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
         "mainTech": [
           "Fullstack"
         ],
@@ -150,15 +166,18 @@
           "NodeJS",
           "ExpressJS",
           "MongoDB",
-          "REST API"
+          "REST API",
+          "VS Code",
+          "Linux",
+          "Git"
         ]
       },
       {
-        "company": "Web developer Bootcamp Course 2021 (online)",
-        "title": "Full Stack developer",
+        "company": "Web developer Bootcamp Course 2021",
+        "title": "Formación en Desarrollo Full-stack",
         "years": "11.2020 - 01.2021",
-        "location": "Vigo, España",
-        "icon": "fas fas fa-laptop-code experience-icon",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
         "mainTech": [
           "Fullstack"
         ],
@@ -172,15 +191,18 @@
           "ExpressJS",
           "MongoDB",
           "REST API",
-          "AJAX"
+          "AJAX",
+          "VS Code",
+          "Linux",
+          "Git"
         ]
       },
       {
-        "company": "The Advanced Web developer Bootcamp 2018 (online)",
-        "title": "Full Stack MERN developer",
+        "company": "The Advanced Web developer Bootcamp 2018",
+        "title": "Formación en Desarrollo Full-stack (MERN)",
         "years": "02.2021 - 05.2021",
-        "location": "Vigo, España",
-        "icon": "fas fa-laptop-code experience-icon",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
         "mainTech": [
           "React"
         ],
@@ -196,7 +218,10 @@
           "ExpressJS",
           "MongoDB",
           "React",
-          "Redux"
+          "Redux",
+          "VS Code",
+          "Linux",
+          "Git"
         ]
       }
     ]
