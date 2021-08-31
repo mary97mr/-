@@ -149,7 +149,7 @@
         ]
       },
       {
-        "company": "Web developer Bootcamp Course 2018",
+        "company": "Web developer Bootcamp Course 2020",
         "title": "Training in Full-stack Development",
         "years": "07.2020 - 10.2020",
         "location": "Online",
@@ -198,7 +198,7 @@
         ]
       },
       {
-        "company": "The Advanced Web developer Bootcamp 2018",
+        "company": "The Advanced Web developer Bootcamp",
         "title": "Training in Full-stack Development (MERN)",
         "years": "02.2021 - 05.2021",
         "location": "Online",
@@ -222,6 +222,37 @@
           "VS Code",
           "Linux",
           "Git"
+        ]
+      },
+      {
+        "company": "Responsive Web Design",
+        "title": "Training in Html5 and CSS3",
+        "years": "06.2021 - 06.2021",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
+        "mainTech": [
+          "Html5"
+        ],
+        "technologies": [
+          "Html5",
+          "Advanced CSS3"
+        ]
+      },
+      {
+        "company": "JavaScript Algorithms and Data Structures",
+        "title": "Training in JavaScript",
+        "years": "07.2021 - 07.2021",
+        "location": "Online",
+        "icon": "fas fa-graduation-cap experience-icon",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "OOP JavaScript",
+          "ES2016",
+          "Regex",
+          "Data Structures",
+          "Algorithm Scripting"
         ]
       }
     ]
