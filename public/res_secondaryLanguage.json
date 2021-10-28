@@ -44,6 +44,35 @@
         ]
       },
       {
+        "title": "Anime Voice Machine",
+        "startDate": "2021",
+        "description": "Ejercicio de ReactJS para el curso de freecodecamp. El ejercicio era con sonidos diferentes, añadí mi propio estilo.",
+        "images": [
+          "images/portfolio/anime-voice-machine/p1.png",
+          "images/portfolio/anime-voice-machine/p2.png"
+        ],
+        "url": "https://github.com/mary97mr/anime-voice-machine",
+        "herokuUrl": "https://mary97mr.github.io/anime-voice-machine/index.html",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }, 
+      {
         "title": "Random Quote",
         "startDate": "2021",
         "description": "Ejercicio básico usando ReactJS. Al cargar la página genera un quote random, con el botón new quote nos genera otro aleatorio, también se puede compartir este quote en twitter.",
