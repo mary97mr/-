@@ -42,6 +42,35 @@
             "name": "JavaScript"
           }
         ]
+      },      
+      {
+        "title": "Random Quote",
+        "startDate": "2021",
+        "description": "Exercise of ReactJS for freecodecamp course. When you load the page it generates a random quote with a random color, you can generate random quotes with the button - New Quote - , you can also share quotes on twitter.",
+        "images": [
+          "images/portfolio/random-quote/p1.png",
+          "images/portfolio/random-quote/p2.png"
+        ],
+        "url": "https://github.com/mary97mr/random-quote",
+        "herokuUrl": "https://mary97mr.github.io/random-quote/index.html",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-sass-original",
+            "name": "Sass"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
       },
       {
         "title": "YelpCamp",
