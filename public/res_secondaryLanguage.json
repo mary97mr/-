@@ -73,6 +73,35 @@
         ]
       },
       {
+        "title": "Simple React Markdown",
+        "startDate": "2021",
+        "description": "Ejercicio de ReactJS para el curso de freecodecamp.",
+        "images": [
+          "images/portfolio/react-markdown/p1.png",
+          "images/portfolio/react-markdown/p2.png"
+        ],
+        "url": "https://github.com/mary97mr/simple-react-markdown",
+        "herokuUrl": "https://mary97mr.github.io/simple-react-markdown/index.html",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "Css"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
         "title": "YelpCamp",
         "startDate": "2020",
         "description": "Esta es una aplicación full-stack creada para mi curso de Web Developer Bootcamp con Nodejs, Express, MongoDB, Bootstrap 4 para diseño y con restful routes. Las principales características son: un buscador de publicaciones, crear cuenta, crear una publicación, like/unlike, añadir reseña y calificar publicación, añadir comentarios, seguir a personas y recibir notificaciones. También permite recuperar una contraseña olvidada.",
